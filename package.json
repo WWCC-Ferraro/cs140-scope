@@ -1,0 +1,12 @@
+{
+  "name": "cs140-scope",
+  "private": true,
+  "type": "module",
+  "description": "Count and cache: wrappers that remember, for CS 140's names, scope and closures module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
