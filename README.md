@@ -32,6 +32,13 @@ The tests are part of the spec. Each task has its own file in `test/`, and
 each test's name says what it checks. When one fails, read its message: it
 says what came back, and which idea to look at.
 
+## Using an AI assistant
+
+`AGENTS.md` in this repository tells AI coding assistants how this course wants
+them to help: as a tutor who explains errors, asks questions and gives hints,
+not by writing your answers. Most assistants read it automatically. It is in
+the open, so read it too. It says what good AI help looks like.
+
 ## The tasks
 
 Do them in order. Each one uses the one before.
